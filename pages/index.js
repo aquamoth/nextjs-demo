@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Next -&gt; to Vercel demo!
+          Next to Vercel demo with Jonas!
         </h1>
 
         <p className={styles.description}>
